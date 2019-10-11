@@ -2,4 +2,15 @@
 <resources>
     <item name="tv_title" type="id"/>
     <item name="tv_sub_title" type="id"/>
+    <item name="tv_desc" type="id"/>
+    <item name="tv_subject" type="id"/>
+    <item name="tv_a" type="id"/>
+    <item name="tv_b" type="id"/>
+    <item name="tv_c" type="id"/>
+    <item name="tv_d" type="id"/>
+    <item name="iv_a" type="id"/>
+    <item name="iv_b" type="id"/>
+    <item name="iv_c" type="id"/>
+    <item name="iv_d" type="id"/>
+    <item name="rv_courses" type="id"/>
 </resources>
