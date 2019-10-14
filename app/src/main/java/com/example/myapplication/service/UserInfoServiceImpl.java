@@ -3,9 +3,10 @@ package com.example.myapplication.service;
 import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
+import com.example.myapplication.activity.UserInfoActivity;
 
 public class UserInfoServiceImpl extends Service {
-    public UserInfoServiceImpl() {
+    public UserInfoServiceImpl(UserInfoActivity userInfoActivity) {
     }
 
     @Override
